@@ -1,0 +1,34 @@
+[
+  {
+    "id": "r1",
+    "name": "Test",
+    "address": "5 Teststreet, Testcity",
+    "cuisine": "Italian",
+    "website": "https://mytest.com",
+    "description": "It's awesome!"
+  },
+  {
+    "id": "r2",
+    "name": "Test 2",
+    "address": "10 Teststreet, Testcity 2",
+    "cuisine": "Indian",
+    "website": "https://mygreattest.com",
+    "description": "It's also amazing!"
+  },
+  {
+    "id": "r3",
+    "name": "Restaurant 3",
+    "address": "5 Awesomestreet, Mycity",
+    "cuisine": "German",
+    "website": "https://awesome.com",
+    "description": "It's amazing! Of course!"
+  },
+  {
+    "name": "Munich Finest Restaurant",
+    "address": "5 Greatstreet, Munich",
+    "cuisine": "German",
+    "website": "https://munich-awesome.com",
+    "description": "It's in Munich, that's where I live!",
+    "id": "a232af18-397b-43c9-a373-ef222e8c0743"
+  }
+]
